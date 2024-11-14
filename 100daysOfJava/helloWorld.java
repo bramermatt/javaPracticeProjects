@@ -22,7 +22,7 @@ public class helloWorld {
 **  What is a Java Compiler and how does it work?
 **      source (https://www.theserverside.com/definition/Java-compiler) 
 **      
-**      Java Compiler: a program that takes the text file work of a developer and compiles it into a platform independent Java file. Java compilers include the Java Programming Language Compiler (javac), the GNU Compiler for Java (GCJ), the Eclipse Compiler for Java (ECJ), and Jikes. Programmers typically write language statements in a given programming language one line at a time using a code editor or an integrated development environment (IDE). The resulting file contains what are called the source statements. The programmer then runs a compiler for the appropriate language, specifying the name of the file that contains the source statements. 
+**      Java Compiler: a program that takes the text file work of a developer and compiles it into a platform independent Java file. Java compilers include the Java Programming Language Compiler (JAVAC), the GNU Compiler for Java (GCJ), the Eclipse Compiler for Java (ECJ). Programmers typically write language statements in a given programming language one line at a time using a code editor or an integrated development environment (IDE). The resulting file contains what are called the source statements. The programmer then runs a compiler for the appropriate language, specifying the name of the file that contains the source statements. 
 **
 **  Reading List 3
 **  Difference between Compiler and Interpreter

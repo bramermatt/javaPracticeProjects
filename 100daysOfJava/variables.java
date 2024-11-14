@@ -40,8 +40,8 @@ public class variables {
     **      short: 2 bytes - default value: 0
     **      int: 4 bytes - default value: 0
     **      long: 8 bytes - default value: 0
-    **      float: 4 bytes - default value: 0.0f
-    **      double: 8 bytes - default value: 0.0d
+    **      float: 4 bytes - default value: 0.0
+    **      double: 8 bytes - default value: 0.0
     **      char: 2 byte - default value: '\u0000'
     **      boolean: not precisely defined, true or false - default value: false
     **      String: null
