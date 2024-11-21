@@ -31,7 +31,8 @@ public class basicArithmetic {
         System.out.println("length: " + length);
         System.out.println("width: " + width);
 
-        System.out.println("Area: " + (length * width));
+        System.out.println("Area (default): " + (length * width)); // Default output
+        System.out.printf("Area (formatted): %.2f%n", (length * width)); // Formatted to 2 decimal places
 
     /*
     **  100 days of code DAY 4
@@ -43,6 +44,7 @@ public class basicArithmetic {
     **    
     **      Reading List:
     **      1. Learn about formatting options such as precision, alignment, and decimal places to present output in a clear and concise manner.
+    **          Not knowing about the printf() function, I was unaware that is what this was in regards to. Formatting output in Java while controlling the appearance of printed data uses System.out.printf. That is the Formatter class. String formats are String.format. Specify the number of decimal places using %.nf, where n is the desired number of decimal places. Use %nX where n is the minimum width of the field. Use %-nX for left-aligned formatting. Add zero padding using %0nd, where n is the field width. Use String.format for reusable formatting. Use the Formatter class for more control.
     **
     **
     */
