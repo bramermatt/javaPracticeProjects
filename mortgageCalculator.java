@@ -22,7 +22,7 @@ public class mortgageCalculator {
     */
 
         double defaultDpPercentage = 20.0;
-        double defaultAnnualRate = 5.0;
+        double defaultAnnualRate = 6.9;
         int defaultTermInYears = 30;
 
         try (Scanner myInput = new Scanner(System.in)) {
